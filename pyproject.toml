@@ -1,0 +1,9 @@
+[project]
+name = "shell_quote_lab"
+version = "1.0.0"
+description = "Compare command-argument quoting for POSIX shells, PowerShell, and Windows command lines without executing commands."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
